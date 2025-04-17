@@ -2,6 +2,7 @@ Download both the app file (as a .py file) and the logo (as a .png file) in the 
 
 To create the app:
 Before running your script, set your API key as an environment variable:
+(Use a Deepseek R1 API key)
 
 On macOS/Linux:
 
