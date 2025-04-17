@@ -14,3 +14,5 @@ set OPENROUTER_API_KEY=your-api-key-here
 On Windows (PowerShell):
 
 $env:OPENROUTER_API_KEY="your-api-key-here"
+
+This is useful for testing. It will only persist while that terminal window is open. Alternatively you can set it on the system level.
